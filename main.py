@@ -31,9 +31,17 @@ def main():
 
         if check_answer(right_answer, user_answer):
             correct += 1
-            print(image_filename, '- верно')
+            print(image_filename, '- верно',right_answer)
         else:
-            print(image_filename, '- неверно')
+            print(image_filename, '- неверно',right_answer)
+            str2='return ['
+            for el in right_answer:
+                str2+=str(el)
+            str2+=']'
+            with open('code.txt', 'a+') as code:
+                code.write("    ")
+                code.write(str2)
+                code.write('\n')
 
     total_object = len(data.index)
     print(f"Из {total_object} изображений верно определено {correct}")

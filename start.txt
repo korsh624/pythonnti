@@ -1,0 +1,1 @@
+if x_b==104 and y_b==377: return 14/nif x_r==365 and y_r==258: return 12/nif x_b==365 and y_b==128: return 4/nif x_r==266 and y_r==208: return 10/nif x_b==20 and y_b==262: return 14/nif x_r==133 and y_r==19: return 1/n

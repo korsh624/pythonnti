@@ -1,0 +1,114 @@
+if sector_start==4 and sector_finish==3:
+    return [4534]
+if sector_start==10 and sector_finish==11:
+    return [4135]
+if sector_start==4 and sector_finish==3:
+    return [4534]
+if sector_start==1 and sector_finish==1:
+if sector_start==13 and sector_finish==11:
+    return [235]
+if sector_start==3 and sector_finish==15:
+    return [13]
+if sector_start==1 and sector_finish==1:
+if sector_start==4 and sector_finish==4:
+    return [431]
+if sector_start==10 and sector_finish==8:
+    return [452]
+if sector_start==2 and sector_finish==2:
+if sector_start==5 and sector_finish==4:
+    return [321]
+if sector_start==4 and sector_finish==2:
+    return [432]
+if sector_start==7 and sector_finish==9:
+    return [214]
+if sector_start==8 and sector_finish==4:
+    return [31]
+if sector_start==6 and sector_finish==15:
+    return [143]
+if sector_start==15 and sector_finish==8:
+    return [52]
+if sector_start==8 and sector_finish==9:
+    return [314]
+if sector_start==11 and sector_finish==12:
+    return [4314]
+if sector_start==9 and sector_finish==11:
+    return [35]
+if sector_start==11 and sector_finish==2:
+    return [432]
+if sector_start==14 and sector_finish==1:
+    return [531]
+if sector_start==2 and sector_finish==5:
+    return [1]
+if sector_start==5 and sector_finish==14:
+    return [32]
+if sector_start==4 and sector_finish==11:
+    return [435]
+if sector_start==10 and sector_finish==10:
+if sector_start==4 and sector_finish==10:
+    return [453]
+if sector_start==3 and sector_finish==1:
+    return [1]
+if sector_start==3 and sector_finish==2:
+    return [132]
+if sector_start==6 and sector_finish==4:
+    return [1]
+if sector_start==14 and sector_finish==16:
+    return [5]
+if sector_start==6 and sector_finish==6:
+if sector_start==14 and sector_finish==12:
+    return [534]
+if sector_start==16 and sector_finish==14:
+    return [32]
+if sector_start==2 and sector_finish==2:
+    return [132]
+if sector_start==2 and sector_finish==2:
+if sector_start==11 and sector_finish==11:
+    return [435]
+if sector_start==15 and sector_finish==8:
+    return [52]
+if sector_start==2 and sector_finish==1:
+    return [1431]
+if sector_start==13 and sector_finish==3:
+    return [234]
+if sector_start==3 and sector_finish==3:
+if sector_start==16 and sector_finish==1:
+    return [31]
+if sector_start==16 and sector_finish==1:
+    return [31]
+if sector_start==13 and sector_finish==13:
+if sector_start==2 and sector_finish==2:
+if sector_start==1 and sector_finish==3:
+    return [234]
+if sector_start==16 and sector_finish==1:
+    return [31]
+if sector_start==11 and sector_finish==11:
+if sector_start==6 and sector_finish==7:
+    return [143]
+if sector_start==13 and sector_finish==8:
+    return [2]
+if sector_start==15 and sector_finish==3:
+    return [54]
+    return []
+    return [132]
+    return []
+    return [132]
+    return [132]
+    return []
+    return [132]
+    return []
+    return []
+    return []
+    return []
+    return []
+    return []
+    return []
+    return []
+    return []
+    return []
+    return []
+    return []
+    return []
+    return []
+    return []
+    return []
+    return []

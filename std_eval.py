@@ -185,5 +185,4 @@ def find_the_shortest_way(image) -> list:
     result=find_put(sector_start,sector_finish)
 
 
-
     return result
